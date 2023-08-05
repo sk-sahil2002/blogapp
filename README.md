@@ -8,6 +8,12 @@ User:-sahilmomin474@gmail.com passkey:- Sahil@2002
 
 I have Sucessfully Craeted AUTH And user Panel.
 
+BRIEF:-   i have create DASHBOARD for Admin. User Can not access the admin panel. untill he has ADMIN rights.
+in the database i have classfied user and admin with 0 fro User 1 for admin and write the code the give acess of admin panel to ADMIN only.
+then i created TABLE categories in DATABASE for clasified Categories.
+
+now i have to create BLOG ui for users where USER can read the BLOg post and ADMIN have rights to EDIT the blog post.
+
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
